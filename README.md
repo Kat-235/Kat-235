@@ -2,10 +2,10 @@
 🌱 I’m currently learning Python.
 
 <a href="https://www.boot.dev/certificates/f39628b6-f7d9-4f93-8560-1a0998b6beaa">
-  <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/f39628b6-f7d9-4f93-8560-1a0998b6beaa.jpeg?v=1790497636" alt="Boot.dev Introduction to Python Course certificate" width="450" />
+  <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/f39628b6-f7d9-4f93-8560-1a0998b6beaa.jpeg?v=1790497636" alt="Boot.dev Introduction to Python Course certificate" width="350" />
 </a>
 <a href="https://www.boot.dev/certificates/582e1a6f-93e7-4bce-ab5e-5b386373282c">
-  <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/582e1a6f-93e7-4bce-ab5e-5b386373282c.jpeg?v=1790111560" alt="Boot.dev Learn Linux certificate" width="450" />
+  <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/582e1a6f-93e7-4bce-ab5e-5b386373282c.jpeg?v=1790111560" alt="Boot.dev Learn Linux certificate" width="350" />
 </a>
 
 <!--
